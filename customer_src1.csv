@@ -1,0 +1,17 @@
+﻿CUST_ID,F_NAME,L_NAME,ORG_NAME,DOB,GOVT_ID,TYPE
+1001,John,Doe,Acme Industries,1985-04-12,123-45-6789,Individual
+1002,Jane,Smith,Smith Consulting,1990-07-28,987 65 4321,Individual
+1003,Michael,Brown,Global Tech,1978-11-05,DL-495673,Corp
+1004,Emily,Davis,Davis Academy,2002-03-19,st-202-34-988,Student
+1005,Robert,Johnson,Johnson & Co,1969-12-30,AB1234567,Corp
+1006,Linda,Wilson,Wilson Services,1995-06-09,   321-54-9870  ,Individual
+1007,David,Lee,Lee Family Office,1983-01-23,pa55-22-9987,Individual
+1008,Sarah,Martin,Martin Learning,2004-10-14,dl 1112233,Student
+1009,Kevin,Clark,Clark Manufacturing,1971-08-02,  555-66-7777,Corp
+1010,Olivia,Walker,Walker Design,1998-05-06,tx-908112,Individual
+1011,Noah,Hall,Hall Tutors,2003-09-25,ssn987654321,Student
+1012,Ava,Young,Young Holdings,1987-02-17, 432-10-9876 ,Corp
+1013,Lucas,King,King Enterprises,1992-11-11,ID#A8B9C7,Individual
+1014,Grace,Scott,Scott Education,2001-12-03,driver 224466,Student
+1015,Ethan,Adams,Adams Logistics,1975-04-29,passport=ZZ9988,Corp
+1016,Mia,Evans,Evans Media,1993-08-20, 777-88-9999 ,Individual
